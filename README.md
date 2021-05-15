@@ -4,5 +4,5 @@
 * I also improve my skills and study React.js 
 * For enquiries, reach out p.dembovskaya@gmail.com or over on [Ln](https://www.linkedin.com/in/polinad/).
 
-Stay awesome! 
+**Stay awesome!**
 
