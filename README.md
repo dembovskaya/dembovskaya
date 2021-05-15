@@ -1,4 +1,4 @@
-## Hi guys, welcome to my profile. :v: 
+## Hi guys, welcome to my profile :rocket:
 
 * You can talk to me about Front-end development using Javascript, HTML, CSS, Bootstrap.
 * I also improve my skills and study React.js 
